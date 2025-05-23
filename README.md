@@ -1,7 +1,7 @@
 # Olá, meu nome é Vitor Carvalho Vieira ! 
 ## Bem vindo ao meu perfil 👍
 
-![Coding](https://s6.ezgif.com/tmp/ezgif-6f453243a8263.gif)
+
 
 
 ### 📚 Estou cursando Sistemas de Informação na Universidade Federal de Uberlândia(UFU).
