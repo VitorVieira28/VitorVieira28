@@ -4,8 +4,8 @@
 
 
 
-### 📚 Estou cursando Sistemas de Informação na Universidade Federal de Uberlândia(UFU).
-### 💡 Sempre a procura de novos conhecimentos e experiências.
+### 📚 Atualmente, curso Sistemas de Informação na Universidade Federal de Uberlândia (UFU).
+### 💡 Sempre à procura de novos conhecimentos e experiências
 ### 💭 Interesse em Tecnologias, Leituras, Cibersegurança e Inteligência Artificial.
 
 
