@@ -1,5 +1,5 @@
 # Olá, meu nome é Vitor Carvalho Vieira ! 
-## Bem vindo ao meu perfil 👍
+## Bem vindo ao meu perfil 
 
 
 
