@@ -1,20 +1,18 @@
-# Olá, meu nome é Vitor Carvalho Vieira ! 
-## Bem vindo ao meu perfil 
+# I'm Vitor Carvalho Vieira ! 
+## About Me
 
 
 
 
-### 📚 Atualmente, curso Sistemas de Informação na Universidade Federal de Uberlândia (UFU).
-### 💡 Sempre à procura de novos conhecimentos e experiências
-### 💭 Interesse em Tecnologias, Leituras, Cibersegurança e Inteligência Artificial.
+### 💻 I am an Information Systems student at the Federal University of Uberlândia (UFU), passionate about software development and algorithms. Currently focused on building a strong programming foundation to pursue a career in technology.
 
 
 
-## Ferramentas e Tecnologias
+Tech Stack 🛠️
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-## Contatos:
+## Contact Me:
 
 
 
