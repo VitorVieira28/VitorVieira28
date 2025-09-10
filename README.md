@@ -32,7 +32,7 @@
 ## GitHub Stats
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=VitorVieira28&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVieira28&layout=compact&langs_count=7&theme=dark&hide_border=true" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVieira28&layout=compact&langs_count=7&theme=dark&hide_border=true" width="360"/>
 </div>
 
 
