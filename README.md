@@ -29,7 +29,7 @@
 
 
 
-
+## GitHub Stats
 ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorVieira28&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorVieira28&layout=compact&theme=dark)
 
