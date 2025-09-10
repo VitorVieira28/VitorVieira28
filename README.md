@@ -4,11 +4,11 @@
 
 
 
-### 💻 I am an Information Systems student at the Federal University of Uberlândia (UFU), passionate about software development and algorithms. Currently focused on building a strong programming foundation to pursue a career in technology.
+### I am an Information Systems student at the Federal University of Uberlândia (UFU), passionate about software development and algorithms. Currently focused on building a strong programming foundation to pursue a career in technology.
 
 
 
-## Tech Stack 🛠️
+## Tech Stack 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
