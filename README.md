@@ -20,9 +20,8 @@
     </tr>
   </table>
 </div>
+
 ## Contact Me:
-
-
 
 <a href="https://www.linkedin.com/in/vitor-vieira-67218a356/" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
